@@ -97,6 +97,7 @@ a {
     align-items: center;
     justify-content: flex-end;
     gap: 20px;
+    padding-right: 70px;
 }
 .bx {
     color: white;
