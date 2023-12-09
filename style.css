@@ -46,9 +46,12 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 50%;
+    padding: 0 0 0 5%;
 }
 .imagen-div img {
-    width: 650px;
+    width: 560px;
+    height: 450px;
 }
 .contendido-div {
     display: flex;
@@ -65,7 +68,7 @@ a {
     color: white;
 }
 .parrafo {
-    max-inline-size: 600px;
+    max-inline-size: 95%;
     color: white;
     font-size: 16px;
     line-height: 24px;
@@ -79,6 +82,7 @@ a {
     justify-content: center;
     width: 200px;
     height: 55px;
+    color: var(--background-color);
     background: white;
     border-radius: 50px;
     text-decoration: none;
