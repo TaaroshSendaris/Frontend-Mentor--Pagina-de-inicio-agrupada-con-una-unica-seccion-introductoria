@@ -156,6 +156,7 @@ a {
         justify-content: center;
         align-items: center;
         gap: 50px;
+        padding-right: 0px;
     }
     .bx {
         scale: 1.5;
